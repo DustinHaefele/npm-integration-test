@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "printName": "DustinHaefele/node-package-test#master"
+    "printName": "DustinHaefele/node-package-test#master",
+    "utilsLibrary": "git+ssh://git@gitlab.com:auditdeploy-team/utils-library#develop"
   }
 }
